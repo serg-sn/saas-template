@@ -2,7 +2,7 @@
 
 
 
-envFile=".env"
+envFile="/home/devops/project/saas-template/.env"
 
 if [ -f "$envFile" ]
 then
